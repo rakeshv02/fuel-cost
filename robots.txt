@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fuel-cost.tabutility.com/sitemap.xml
